@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="http://dms-newdocs.github.io/.github">  
+<a href="https://dms-newdocs.github.io/.github">  
 <img src="https://img.shields.io/badge/⬇️_INSTALL_DMS_NEWDOCS_ON_MACBOOK-darkblue?style=for-the-badge&logo=apple" alt="Install DMS NewDocs on MacBook">  
 </a>  
 </div>  
